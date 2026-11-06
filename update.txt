@@ -1,3 +1,3 @@
-1|https://drive.google.com/file/d/1kPOuVNAd516t3UYPPO0zOFRkodcRrEnx/view?usp=sharing
+1|https://github.com/edcilm2021/eternalrosemobile/releases/download/gamedata-1/gamedata1.zip https://github.com/edcilm2021/eternalrosemobile/releases/download/gamedata-1/gamedata2.zip
 2|https://drive.google.com/file/d/1NGFAy41UXpRnH7EgCiLLV0Cx7A_FZlJl/view?usp=sharing
 open
