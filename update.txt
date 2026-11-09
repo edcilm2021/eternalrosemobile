@@ -1,4 +1,4 @@
 1|https://github.com/edcilm2021/eternalrosemobile/releases/download/gamedata-1/gamedata1.zip https://github.com/edcilm2021/eternalrosemobile/releases/download/gamedata-1/gamedata2.zip
 3|https://github.com/edcilm2021/eternalrosemobile/releases/download/patch-3/updatem.zip
-apk|13|https://github.com/edcilm2021/eternalrosemobile/releases/download/apk-13/EternalRoseMobile.apk
+apk|14|https://github.com/edcilm2021/eternalrosemobile/releases/download/apk-14/EternalRoseMobile.apk
 open
