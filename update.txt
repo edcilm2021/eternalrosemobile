@@ -24,5 +24,6 @@
 25|https://github.com/edcilm2021/eternalrosemobile/releases/download/patch-25/updatem.zip
 26|https://github.com/edcilm2021/eternalrosemobile/releases/download/patch-26/updatem.zip
 27|https://github.com/edcilm2021/eternalrosemobile/releases/download/patch-27/updatem.zip
-apk|51|https://github.com/edcilm2021/eternalrosemobile/releases/download/apk-51/EternalRoseMobile.apk
+28|https://github.com/edcilm2021/eternalrosemobile/releases/download/patch-28/updatem.zip
+apk|52|https://github.com/edcilm2021/eternalrosemobile/releases/download/apk-52/EternalRoseMobile.apk
 open
